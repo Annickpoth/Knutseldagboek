@@ -12,6 +12,8 @@ Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jou pa
 Beschrijf hoe je aanpassingen aan je pagina kunt doen en hoe je deze publiceert:
 - ccs? Viq vscode? Ik was nog niet zover
 
+**Dinsdag 10 november**: ik was deze dag thuis maar ik heb het huiswerk gemaakt voor beide cursussen en de ontwikkelomgeving afgemaakt en domeinnaam gekoppeld. Ik heb Moesjestuin.nl gekozen. Dit omdat ik graag een digital garden wil maken over planten en hierin ook mijn kat Moes wil verwerken.
+
 **Woensdag 11 november**:
 Deze dag hebben we een cursus gehad in CSS en HTML, de ene ging me beter af dan de ander. Ik vond de cursus van Sanne namelijk best wel moeilijk. Dit komt ook doordat ik het niet zo goed kon volgen. De cursus van Justus ging veel beter en deze vond ik ook wel echt leuk om te doen omdat ik het kon bijhouden en het dus ook uiteindelijk "af" had. Ik had echt het idee dat ik iets bereikt had door deze cursus en ik begreep ook echt wat ik deed in plaats van dat ik het deed omdat het moest.<img width="952" height="740" alt="Scherm­afbeelding 2026-11-11 om 10 34 07" src="https://github.com/user-attachments/assets/05252387-5700-431f-a175-015ded9d055a" />
 Les van Justus^
@@ -19,6 +21,8 @@ Les van Justus^
 <img width="862" height="548" alt="Scherm­afbeelding 2026-11-11 om 12 13 32" 
   src="https://github.com/user-attachments/assets/f02f9cd5-00d4-439f-9280-8980e02765a9" />
 Les van Sanne^
+
+**Vrijdag 13 november**: De schetsles was ik helaas niet aanwezig maar deze heb ik thuis uitgevoerd. Als ik heel eerlijk mag zijn vond ik niet dat deze cursus echt een nuttige toevoeging heeft gehad op mijn proces. Dit omdat ik liever digitaal werk en dat ook een @dev met uitleg zou kunnen plaatsen. Maar het was ergens niet vervelend om deze manier uit te testen. Ik begrijp dat dit een goede bijdrage zou kunnen zijn als je je design wilt voorleggen aan een developer.
 
 
 
