@@ -12,7 +12,7 @@ Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jou pa
 Beschrijf hoe je aanpassingen aan je pagina kunt doen en hoe je deze publiceert:
 - ccs? Viq vscode? Ik was nog niet zover
 
-**Woensdag 11 november**
+**Woensdag 11 november**:
 Deze dag hebben we een cursus gehad in CSS en HTML, de ene ging me beter af dan de ander. Ik vond de cursus van Sanne namelijk best wel moeilijk. Dit komt ook doordat ik het niet zo goed kon volgen. De cursus van Justus ging veel beter en deze vond ik ook wel echt leuk om te doen omdat ik het kon bijhouden en het dus ook uiteindelijk "af" had. Ik had echt het idee dat ik iets bereikt had door deze cursus en ik begreep ook echt wat ik deed in plaats van dat ik het deed omdat het moest.<img width="952" height="740" alt="Scherm­afbeelding 2026-11-11 om 10 34 07" src="https://github.com/user-attachments/assets/05252387-5700-431f-a175-015ded9d055a" />
 Les van Justus^
 
