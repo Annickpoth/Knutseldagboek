@@ -24,5 +24,18 @@ Les van Sanne^
 
 **Vrijdag 13 november**: De schetsles was ik helaas niet aanwezig maar deze heb ik thuis uitgevoerd. Als ik heel eerlijk mag zijn vond ik niet dat deze cursus echt een nuttige toevoeging heeft gehad op mijn proces. Dit omdat ik liever digitaal werk en dat ook een @dev met uitleg zou kunnen plaatsen. Maar het was ergens niet vervelend om deze manier uit te testen. Ik begrijp dat dit een goede bijdrage zou kunnen zijn als je je design wilt voorleggen aan een developer.
 
+**maandag 16 november**: Vandaag hadden we een sprint 1 kickoff, hierbij gingen we begrijpend lezen over wat een digital garden is. Ik vond dit niet heel nuttig omdat dit al uitgelegd is. Hierna mochten we digitale Gardens gaan bekijken en dan een goede en een slechte kiezen. Dat was wel interessant om te beseffen wat ik zelf leuk en niet leuk vind.
+
+<img width="361" height="674" alt="Scherm­afbeelding 2026-11-16 om 15 05 49" src="https://github.com/user-attachments/assets/a6f07c30-6831-4efa-98c0-59da05ede3b1" />
+<img width="455" height="741" alt="Scherm­afbeelding 2026-11-16 om 15 05 40" src="https://github.com/user-attachments/assets/eb8b4a4c-b339-4f49-8511-7c94275dad63" />
+<img width="306" height="560" alt="Scherm­afbeelding 2026-11-16 om 15 05 21" src="https://github.com/user-attachments/assets/70295fb4-317e-4b7e-96bc-f2ff15d782ef" />
+
+Daarna gingen we onderzoek doen naar wat we willen doen: Mijn idee is om een Moestuintje te maken omdat ik planten leuk vind en ook een kat heb die Moes heet. Hierbij wil ik graag een gieter in de Hero die dan interactief werkt en klikbaar is, deze geeft dan water aan een plant, de plant staat voor mij en onder de grond zie je allemaal producten die bij mij horen. Wat precies weet ik nog niet maar bijvoorbeeld een hoefijzer voor paardrijden. Ik wil dat deze pagina er heel speels uit komt te zien en ik neig naar een illustratieve style. Ook wil ik dat je enkel in lichtmodus water kunt geven aan de plant met effect en in dark dus niet omdat fotosynthese dan niet plaatsvindt. 
+
+
+
+
+
+
 
 
