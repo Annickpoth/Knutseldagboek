@@ -19,9 +19,10 @@ Presentatie^
 
 **maandag 16 november**: Vandaag hadden we een sprint 1 kickoff, hierbij gingen we begrijpend lezen over wat een digital garden is. Ik vond dit niet heel nuttig omdat dit al uitgelegd is. Hierna mochten we digitale Gardens gaan bekijken en dan een goede en een slechte kiezen. Dat was wel interessant om te beseffen wat ik zelf leuk en niet leuk vind.
 
-<img width="361" height="674" alt="Scherm­afbeelding 2026-11-16 om 15 05 49" src="https://github.com/user-attachments/assets/a6f07c30-6831-4efa-98c0-59da05ede3b1" />
-<img width="455" height="741" alt="Scherm­afbeelding 2026-11-16 om 15 05 40" src="https://github.com/user-attachments/assets/eb8b4a4c-b339-4f49-8511-7c94275dad63" />
-<img width="306" height="560" alt="Scherm­afbeelding 2026-11-16 om 15 05 21" src="https://github.com/user-attachments/assets/70295fb4-317e-4b7e-96bc-f2ff15d782ef" />
+<img width="1296" height="729" alt="Scherm­afbeelding 2026-11-17 om 22 34 11" src="https://github.com/user-attachments/assets/f4a6b826-a895-448e-875a-e6b63330504d" />
+<img width="663" height="464" alt="Scherm­afbeelding 2026-11-17 om 22 34 54" src="https://github.com/user-attachments/assets/c8283184-5618-4837-b453-8cace70f2bc7" />
+<img width="944" height="507" alt="Scherm­afbeelding 2026-11-17 om 22 35 40" src="https://github.com/user-attachments/assets/4b3ee36e-1be1-4088-8cd0-17c0ae93c62c" />
+
 
 Daarna gingen we onderzoek doen naar wat we willen doen: Mijn idee is om een Moestuintje te maken omdat ik planten leuk vind en ook een kat heb die Moes heet. Hierbij wil ik graag een gieter in de Hero die dan interactief werkt en klikbaar is, deze geeft dan water aan een plant, de plant staat voor mij en onder de grond zie je allemaal producten die bij mij horen. Wat precies weet ik nog niet maar bijvoorbeeld een hoefijzer voor paardrijden. Ik wil dat deze pagina er heel speels uit komt te zien en ik neig naar een illustratieve style. Ook wil ik dat je enkel in lichtmodus water kunt geven aan de plant met effect en in dark dus niet omdat fotosynthese dan niet plaatsvindt. 
 
