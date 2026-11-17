@@ -1,8 +1,13 @@
 Progress:
+
 **dinsdag 17 november** Deze dag heb ik gewerkt aan het practicum dark/light mode. Dit ging mij heel goed af en ik merk dat als iets goed lukt ik er ook wel echt gemotiveerd door raak. Als ik het lekker op mijn eigen tempo mag doen gaat het echt veel beter. ik vind het grappig om te zien dat zo'n kort stukje code zo veel verschil kan maken aan je code. 
 <img width="1219" height="813" alt="Scherm­afbeelding 2026-11-17 om 20 01 29" src="https://github.com/user-attachments/assets/a83c36ae-88aa-4e83-91de-247cbe7a2127" /><img width="1215" height="789" alt="Scherm­afbeelding 2026-11-17 om 20 01 42" src="https://github.com/user-attachments/assets/28875a92-cded-4745-af0f-daf4455bc493" />
- ^opdracht 1
-<img width="1209" height="754" alt="Scherm­afbeelding 2026-11-17 om 20 16 40" src="https://github.com/user-attachments/assets/1c79c372-59b4-4796-97ba-a2d79f7d5b5e" /><img width="1214" height="806" alt="Scherm­afbeelding 2026-11-17 om 20 16 55" src="https://github.com/user-attachments/assets/fbac6625-7ef3-4ba8-93d5-d732832cc5dd" /> ^opdracht 2
+^opdracht 1
+
+<img width="1209" height="754" alt="Scherm­afbeelding 2026-11-17 om 20 16 40" src="https://github.com/user-attachments/assets/1c79c372-59b4-4796-97ba-a2d79f7d5b5e" /><img width="1214" height="806" alt="Scherm­afbeelding 2026-11-17 om 20 16 55" src="https://github.com/user-attachments/assets/fbac6625-7ef3-4ba8-93d5-d732832cc5dd" />^opdracht 2
+
+De opdracht 3 was wel even een gepriegel maar is na goed lezen wel goedgekomen. :
+<img width="1479" height="762" alt="Scherm­afbeelding 2026-11-17 om 20 39 23" src="https://github.com/user-attachments/assets/e6c900eb-6344-4257-b077-6dc3a9681a4f" /><img width="1462" height="761" alt="Scherm­afbeelding 2026-11-17 om 20 39 40" src="https://github.com/user-attachments/assets/71b65adf-2882-494d-b050-7c0f88558c30" />^opdracht 3
 
 
 
