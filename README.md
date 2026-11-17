@@ -9,6 +9,12 @@ Progress:
 De opdracht 3 was wel even een gepriegel maar is na goed lezen wel goedgekomen. :
 <img width="1479" height="762" alt="Scherm­afbeelding 2026-11-17 om 20 39 23" src="https://github.com/user-attachments/assets/e6c900eb-6344-4257-b077-6dc3a9681a4f" /><img width="1462" height="761" alt="Scherm­afbeelding 2026-11-17 om 20 39 40" src="https://github.com/user-attachments/assets/71b65adf-2882-494d-b050-7c0f88558c30" />^opdracht 3
 
+Presentatie maken: Dit vond ik echt niet leuk om te doen! Het is uiteindelijk gelukt om deze presentatie werkende te krijgen maar er waren heel veel storingen die ik dan opnieuw moest fixen. Zo kon ik dus de width van mijn foto niet veranderen omdat er geen CSS was dus moest ik handmatig mijn foto scalen in een ander programma. uiteindelijk is het gelukt maar leuk was het oprecht niet. Wel heb ik er nu een keer mee gewerkt..
+
+<img width="1104" height="730" alt="Scherm­afbeelding 2026-11-17 om 22 28 32" src="https://github.com/user-attachments/assets/b62a1609-9526-4363-955b-d9ad4e682484" />
+Presentatie^
+
+
 
 
 **maandag 16 november**: Vandaag hadden we een sprint 1 kickoff, hierbij gingen we begrijpend lezen over wat een digital garden is. Ik vond dit niet heel nuttig omdat dit al uitgelegd is. Hierna mochten we digitale Gardens gaan bekijken en dan een goede en een slechte kiezen. Dat was wel interessant om te beseffen wat ik zelf leuk en niet leuk vind.
