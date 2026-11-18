@@ -1,6 +1,12 @@
 Progress:
 ---
+**Woensdag 18 november** Deze dag ben ik bezig geweest met visual research. Erg interessant om abriposters te bekijken voor inspiratie. Erg in de buurt van wat ik voor ogen heb kwam het echter nog niet zo maar ik had hierdoor wel nieuwe visies gekregen zoals dat je niet 100% beeld nodig hebt om iets te kunnen visualiseren. 
 
+<img width="470" height="507" alt="Scherm­afbeelding 2026-11-18 om 23 04 23" src="https://github.com/user-attachments/assets/d34290f1-5f21-4445-b9b4-c38f68b61378" />
+
+^Visual research
+
+---
 **dinsdag 17 november** Deze dag heb ik gewerkt aan het practicum dark/light mode. Dit ging mij heel goed af en ik merk dat als iets goed lukt ik er ook wel echt gemotiveerd door raak. Als ik het lekker op mijn eigen tempo mag doen gaat het echt veel beter. ik vind het grappig om te zien dat zo'n kort stukje code zo veel verschil kan maken aan je code. 
 <img width="1219" height="813" alt="Scherm­afbeelding 2026-11-17 om 20 01 29" src="https://github.com/user-attachments/assets/a83c36ae-88aa-4e83-91de-247cbe7a2127" /><img width="1215" height="789" alt="Scherm­afbeelding 2026-11-17 om 20 01 42" src="https://github.com/user-attachments/assets/28875a92-cded-4745-af0f-daf4455bc493" />
 ^opdracht 1
