@@ -1,4 +1,16 @@
 Progress:
+
+**Donderdag 19 november** Bezig geweest met huiswerk voor vrijdag. Voor mini stylegide heb ik deze kleuren gekozen: <img width="761" height="510" alt="Scherm­afbeelding 2026-11-19 om 20 24 43" src="https://github.com/user-attachments/assets/3b8efc8c-71c8-4a68-8e0a-2cee83cd27e3" /> 
+
+Deze kleuren heb ik gekozen omdat ze het best bij mijn idee passen: groen voor gras, bruin voor aarde, oranje en roze als statement kleuren.
+
+Voor fonts lijkt dit mij heel erg leuk, zo iets had ik ook in de posters gevonden als inspiratie: <img width="313" height="147" alt="Scherm­afbeelding 2026-11-19 om 20 31 45" src="https://github.com/user-attachments/assets/d46c5279-5e20-480f-b6ae-64d3ddb3249e" />
+<img width="310" height="146" alt="Scherm­afbeelding 2026-11-19 om 20 31 34" src="https://github.com/user-attachments/assets/e3561c1a-f30f-4b10-b0e2-c9f4545a83ef" />
+<img width="312" height="168" alt="Scherm­afbeelding 2026-11-19 om 20 31 24" src="https://github.com/user-attachments/assets/90b77319-65f4-4ba8-acb6-6ba08e6f241d" />
+
+Een beetje handwritten maar wel goed leesbaar. Dit zodat het echt eigen lijkt en niet te webby.
+
+
 ---
 **Woensdag 18 november** Deze dag ben ik bezig geweest met visual research. Erg interessant om abriposters te bekijken voor inspiratie. Erg in de buurt van wat ik voor ogen heb kwam het echter nog niet zo maar ik had hierdoor wel nieuwe visies gekregen zoals dat je niet 100% beeld nodig hebt om iets te kunnen visualiseren. 
 
