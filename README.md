@@ -6,7 +6,8 @@ Schetsen gemaakt met meerdere interactieve aspecten van het idee dat ik heb. Ik 
 
 Ook hadden we een feedback gesprek met de docent en studentenbegeleider. Hieruit kreeg ik vooral de reactie dat mijn idee zeker haalbaar is in code en dat het een leuk, uniek idee is. Ze vindt het wel jammer dat ik mijn crazy 8 nog niet gemaakt heb, daar ga ik nog aan werken. 
 
-Bij het practicum heb ik duidelijke uitleg gehad over grid gebruik, dit was erg nuttig. Het voelt fijn dat ik het nu ook wel echt begrijp.<img width="1206" height="729" alt="Scherm­afbeelding 2026-11-20 om 15 32 39" src="https://github.com/user-attachments/assets/b0cea735-f5be-4e06-bcce-0d0eb72e0020" />
+Bij het practicum heb ik duidelijke uitleg gehad over grid gebruik, dit was erg nuttig. Het voelt fijn dat ik het nu ook wel echt begrijp.<img width="1206" height="729" alt="Scherm­afbeelding 2026-11-20 om 15 32 39" src="https://github.com/user-attachments/assets/b0cea735-f5be-4e06-bcce-0d0eb72e0020" /><img width="1510" height="806" alt="Scherm­afbeelding 2026-11-20 om 16 07 48" src="https://github.com/user-attachments/assets/d0836278-cbaa-4c70-9feb-aaaf7a0038f2" />
+
 
 
 
