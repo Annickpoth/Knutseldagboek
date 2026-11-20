@@ -1,5 +1,11 @@
 Progress:
+**Vrijdag 20 november** <img width="5055" height="1816" alt="IMG_5127" src="https://github.com/user-attachments/assets/3cc9c6ad-20bb-4966-af1b-fd9d0a1c205c" /> 
+Schetsen gemaakt met meerdere interactieve aspecten van het idee dat ik heb. Ik vind zelf de eerste 2 het sterkste en de 3e wat verder gezocht maar dit neemt de relevantie van mijn idee weg namelijk dat ik het plantje ben.
 
+
+
+
+---
 **Donderdag 19 november** Bezig geweest met huiswerk voor vrijdag. Voor mini stylegide heb ik deze kleuren gekozen: <img width="761" height="510" alt="Scherm­afbeelding 2026-11-19 om 20 24 43" src="https://github.com/user-attachments/assets/3b8efc8c-71c8-4a68-8e0a-2cee83cd27e3" /> 
 
 Deze kleuren heb ik gekozen omdat ze het best bij mijn idee passen: groen voor gras, bruin voor aarde, oranje en roze als statement kleuren.
