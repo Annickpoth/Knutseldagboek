@@ -1,7 +1,10 @@
 Progress:
+
+---
 **Vrijdag 20 november** <img width="5055" height="1816" alt="IMG_5127" src="https://github.com/user-attachments/assets/3cc9c6ad-20bb-4966-af1b-fd9d0a1c205c" /> 
 Schetsen gemaakt met meerdere interactieve aspecten van het idee dat ik heb. Ik vind zelf de eerste 2 het sterkste en de 3e wat verder gezocht maar dit neemt de relevantie van mijn idee weg namelijk dat ik het plantje ben.
 
+Ook hadden we een feedback gesprek met de docent en studentenbegeleider. Hieruit kreeg ik vooral de reactie dat mijn idee zeker haalbaar is in code en dat het een leuk, uniek idee is. Ze vindt het wel jammer dat ik mijn crazy 8 nog niet gemaakt heb, daar ga ik nog aan werken. 
 
 
 
