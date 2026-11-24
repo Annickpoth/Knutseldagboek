@@ -7,7 +7,12 @@ Hierna heb ik Moes laten genereren door Gemini in illustrator, dit omdat dieren 
 
 Ik vond hierna dat Moes nog niet centraal genoeg stond dus dit heb ik nog aangepast: <img width="5120" height="4160" alt="Moes centraal" src="https://github.com/user-attachments/assets/ff6fb59c-142c-4d9a-bd68-53a4ff87ae13" />
 
-Ook heb ik nog een dakmode gemaakt: <img width="5120" height="4160" alt="Darkmode" src="https://github.com/user-attachments/assets/3b9c9040-dd9e-426b-91a5-b955c1d17c95" />
+Ook heb ik nog een darkmode gemaakt: <img width="5120" height="4160" alt="Darkmode" src="https://github.com/user-attachments/assets/3b9c9040-dd9e-426b-91a5-b955c1d17c95" />
+
+Ik ben begonnen met het typen van mijn html/css, dit vond ik best wel moeilijk en ging stroef. Uiteindelijk ben ik blij dat er iets staat.
+<img width="1511" height="945" alt="Scherm­afbeelding 2026-11-24 om 21 08 55" src="https://github.com/user-attachments/assets/1c76beca-09a0-466d-9510-354c8ef97ab6" />
+<img width="1400" height="739" alt="Scherm­afbeelding 2026-11-24 om 21 09 20" src="https://github.com/user-attachments/assets/ee9f9097-0b45-4715-8d71-b2c8562bb512" />
+
 
 
 
