@@ -3,7 +3,10 @@ Progress:
 ---
 **Dinsdag 24 november** Op deze dag ben ik begonnen met het illustreren van mijn tuintje. Dit deed ik met behulp van mijn Wacom trackpad die ik kan connecten met mijn MacBook. Was een tijd geleden dat ik dit gedaan heb maar het was wel weer erg leuk en vertrouwd. Ik heb als eerst de lucht gemaakt en wolkjes erop getekend. Daarna ben ik begonnen met de grond en het plantje. <img width="1274" height="733" alt="Scherm­afbeelding 2026-11-24 om 15 59 48" src="https://github.com/user-attachments/assets/0a838bb3-741d-4c3b-aee4-415a14385f5c" />Ik twijfel dus alleen nog heel erg of ik een gieter wil illustreren zoals bij mijn originele idee of dat ik zoals wat Justus zei iets met de cursor wil doen die dan in een gieter veranderd. Ik vind beide heel erg leuk... 
 
-Hierna heb ik Moes laten genereren door Gemini in illustrator, dit omdat dieren tekenen best wel moeilijk is. Uiteindelijk ben ik zover gekomen met mijn idee: <img width="5120" height="4364" alt="TV - 1" src="https://github.com/user-attachments/assets/10dd307a-d641-425a-90e2-8af3188691ff" />
+Hierna heb ik Moes laten genereren door Gemini in illustrator, dit omdat dieren tekenen best wel moeilijk is. <img width="5120" height="4364" alt="TV - 1" src="https://github.com/user-attachments/assets/10dd307a-d641-425a-90e2-8af3188691ff" />
+
+Ik vond hierna dat Moes nog niet centraal genoeg stond dus dit heb ik nog aangepast: <img width="5120" height="4160" alt="Moes centraal" src="https://github.com/user-attachments/assets/ff6fb59c-142c-4d9a-bd68-53a4ff87ae13" />
+
 
  
 
