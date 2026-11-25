@@ -28,23 +28,26 @@ html {
 }
 
 img {
-  max-width: 100%;
+  margin-left: 35%;
+  margin-bottom: -33%;
+  width: 25em;
 }
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-image: url("../images/moesjestuin-03.svg");
+  background-size: cover;
+  background-position: top;
+  h1 {
+    display: flex;
+    place-content: center;
+  }
+  h2 {
+    margin-top: 15%;
+    display: flex;
+    place-content: center;
+  }
 }
-
-/**************************
-* MARK: Header
-**************************/
-
-header {
-}
-
-/**************************
-* MARK: Footer
-**************************/
 
 footer {
 }
@@ -59,3 +62,4 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
+
