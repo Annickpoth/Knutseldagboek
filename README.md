@@ -1,5 +1,10 @@
 Progress:
 
+
+--- 
+**Donderdag 26 november** Laatste loodjes voordat ik het inlever: ik heb de vakjes ingevuld en de hoekjes afgerond. Ik ben dus oprecht heel trots op hoe ver ik het al geschopt heb. Ik ben hier trots op omdat ik heel erg het gevoel heb dat ik vastloop in dit proces, het voelt een beetje als een nieuwe taal leren die je gewoon nog niet begrijpt. Maar het begint me aardig te lukken! 
+<img width="1096" height="856" alt="Scherm­afbeelding 2026-11-26 om 19 22 04" src="https://github.com/user-attachments/assets/b69e68f6-8bd7-4352-bb1f-afeeefb22910" />
+
 ---
 **Woensdag 25 november** Op deze dag kon ik gelukkig hulp vragen aan een studentenbegeleider tijdens de les. Hij heeft mij heel fijn geholpen met de de laatste loodjes om de darkmodes te fixen en om een custom cursor te kunnen gebruiken. 
 <img width="1510" height="861" alt="Scherm­afbeelding 2026-11-25 om 12 36 39" src="https://github.com/user-attachments/assets/0d8c8dfe-156b-46be-b198-006f2ab00988" />
