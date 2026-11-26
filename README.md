@@ -1,6 +1,12 @@
 Progress:
 
 ---
+**Woensdag 25 november** Op deze dag kon ik gelukkig hulp vragen aan een studentenbegeleider tijdens de les. Hij heeft mij heel fijn geholpen met de de laatste loodjes om de darkmodes te fixen en om een custom cursor te kunnen gebruiken. 
+<img width="1510" height="861" alt="Scherm­afbeelding 2026-11-25 om 12 36 39" src="https://github.com/user-attachments/assets/0d8c8dfe-156b-46be-b198-006f2ab00988" />
+Zelf heb ik een grid toegevoegd waar ik detailtjes over mijzelf kan toevoegen. Ik ben oprecht echt heel blij met wat er terecht is gekomen.
+<img width="1506" height="734" alt="Scherm­afbeelding 2026-11-25 om 12 42 05" src="https://github.com/user-attachments/assets/9f9e80a6-167d-4571-8103-f0e36fb0335d" />
+
+---
 **Dinsdag 24 november** Op deze dag ben ik begonnen met het illustreren van mijn tuintje. Dit deed ik met behulp van mijn Wacom trackpad die ik kan connecten met mijn MacBook. Was een tijd geleden dat ik dit gedaan heb maar het was wel weer erg leuk en vertrouwd. Ik heb als eerst de lucht gemaakt en wolkjes erop getekend. Daarna ben ik begonnen met de grond en het plantje. <img width="1274" height="733" alt="Scherm­afbeelding 2026-11-24 om 15 59 48" src="https://github.com/user-attachments/assets/0a838bb3-741d-4c3b-aee4-415a14385f5c" />Ik twijfel dus alleen nog heel erg of ik een gieter wil illustreren zoals bij mijn originele idee of dat ik zoals wat Justus zei iets met de cursor wil doen die dan in een gieter veranderd. Ik vind beide heel erg leuk... 
 
 Hierna heb ik Moes laten genereren door Gemini in illustrator, dit omdat dieren tekenen best wel moeilijk is. <img width="5120" height="4364" alt="TV - 1" src="https://github.com/user-attachments/assets/10dd307a-d641-425a-90e2-8af3188691ff" />
